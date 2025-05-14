@@ -1,0 +1,3 @@
+= Goofy
+
+Simple golang to convert yaml into beamer
